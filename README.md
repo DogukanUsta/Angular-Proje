@@ -1,1 +1,2 @@
-test
+Angular Project...
+This project is my first experience with Angular. I have been working on improving my skills in the Angular language for a while now, and this project marks my first hands-on experience. As time goes on, I plan to develop more projects and upload them to GitHub. Since I am at the early stages of my career goals, I am extremely excited about my first project. In this project, I made an effort to utilize the fundamental components commonly used in the Angular language. Looking ahead, I intend to enrich my portfolio with more detailed, comprehensive, and sophisticated project examples.
